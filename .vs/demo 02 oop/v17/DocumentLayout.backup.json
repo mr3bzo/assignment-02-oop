@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\K i n G\\Desktop\\New folder\\demo 02 oop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16862857-25FA-4015-94B7-FB8EF90A27BB}|demo 02 oop\\demo 02 oop.csproj|c:\\users\\k i n g\\desktop\\new folder\\demo 02 oop\\demo 02 oop\\grades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16862857-25FA-4015-94B7-FB8EF90A27BB}|demo 02 oop\\demo 02 oop.csproj|solutionrelative:demo 02 oop\\grades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16862857-25FA-4015-94B7-FB8EF90A27BB}|demo 02 oop\\demo 02 oop.csproj|c:\\users\\k i n g\\desktop\\new folder\\demo 02 oop\\demo 02 oop\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16862857-25FA-4015-94B7-FB8EF90A27BB}|demo 02 oop\\demo 02 oop.csproj|solutionrelative:demo 02 oop\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16862857-25FA-4015-94B7-FB8EF90A27BB}|demo 02 oop\\demo 02 oop.csproj|c:\\users\\k i n g\\desktop\\new folder\\demo 02 oop\\demo 02 oop\\encapsulation\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16862857-25FA-4015-94B7-FB8EF90A27BB}|demo 02 oop\\demo 02 oop.csproj|solutionrelative:demo 02 oop\\encapsulation\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16862857-25FA-4015-94B7-FB8EF90A27BB}|demo 02 oop\\demo 02 oop.csproj|c:\\users\\k i n g\\desktop\\new folder\\demo 02 oop\\demo 02 oop\\association\\compostion\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16862857-25FA-4015-94B7-FB8EF90A27BB}|demo 02 oop\\demo 02 oop.csproj|solutionrelative:demo 02 oop\\association\\compostion\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16862857-25FA-4015-94B7-FB8EF90A27BB}|demo 02 oop\\demo 02 oop.csproj|c:\\users\\k i n g\\desktop\\new folder\\demo 02 oop\\demo 02 oop\\association\\aggrigation\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16862857-25FA-4015-94B7-FB8EF90A27BB}|demo 02 oop\\demo 02 oop.csproj|solutionrelative:demo 02 oop\\association\\aggrigation\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16862857-25FA-4015-94B7-FB8EF90A27BB}|demo 02 oop\\demo 02 oop.csproj|c:\\users\\k i n g\\desktop\\new folder\\demo 02 oop\\demo 02 oop\\association\\aggrigation\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16862857-25FA-4015-94B7-FB8EF90A27BB}|demo 02 oop\\demo 02 oop.csproj|solutionrelative:demo 02 oop\\association\\aggrigation\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\K i n G\\Desktop\\New folder\\demo 02 oop\\demo 02 oop\\Encapsulation\\Employee.cs",
+              "RelativeDocumentMoniker": "demo 02 oop\\Encapsulation\\Employee.cs",
+              "ToolTip": "C:\\Users\\K i n G\\Desktop\\New folder\\demo 02 oop\\demo 02 oop\\Encapsulation\\Employee.cs",
+              "RelativeToolTip": "demo 02 oop\\Encapsulation\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T18:59:24.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\K i n G\\Desktop\\New folder\\demo 02 oop\\demo 02 oop\\Car.cs",
+              "RelativeDocumentMoniker": "demo 02 oop\\Car.cs",
+              "ToolTip": "C:\\Users\\K i n G\\Desktop\\New folder\\demo 02 oop\\demo 02 oop\\Car.cs",
+              "RelativeToolTip": "demo 02 oop\\Car.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAkwBMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T18:56:36.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Grades.cs",
+              "DocumentMoniker": "C:\\Users\\K i n G\\Desktop\\New folder\\demo 02 oop\\demo 02 oop\\Grades.cs",
+              "RelativeDocumentMoniker": "demo 02 oop\\Grades.cs",
+              "ToolTip": "C:\\Users\\K i n G\\Desktop\\New folder\\demo 02 oop\\demo 02 oop\\Grades.cs",
+              "RelativeToolTip": "demo 02 oop\\Grades.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T18:55:57.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\K i n G\\Desktop\\New folder\\demo 02 oop\\demo 02 oop\\Association\\compostion\\Order.cs",
+              "RelativeDocumentMoniker": "demo 02 oop\\Association\\compostion\\Order.cs",
+              "ToolTip": "C:\\Users\\K i n G\\Desktop\\New folder\\demo 02 oop\\demo 02 oop\\Association\\compostion\\Order.cs",
+              "RelativeToolTip": "demo 02 oop\\Association\\compostion\\Order.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T18:55:24.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\K i n G\\Desktop\\New folder\\demo 02 oop\\demo 02 oop\\Association\\aggrigation\\Employee.cs",
+              "RelativeDocumentMoniker": "demo 02 oop\\Association\\aggrigation\\Employee.cs",
+              "ToolTip": "C:\\Users\\K i n G\\Desktop\\New folder\\demo 02 oop\\demo 02 oop\\Association\\aggrigation\\Employee.cs",
+              "RelativeToolTip": "demo 02 oop\\Association\\aggrigation\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T18:55:20.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\K i n G\\Desktop\\New folder\\demo 02 oop\\demo 02 oop\\Association\\aggrigation\\Department.cs",
+              "RelativeDocumentMoniker": "demo 02 oop\\Association\\aggrigation\\Department.cs",
+              "ToolTip": "C:\\Users\\K i n G\\Desktop\\New folder\\demo 02 oop\\demo 02 oop\\Association\\aggrigation\\Department.cs",
+              "RelativeToolTip": "demo 02 oop\\Association\\aggrigation\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T18:54:56.609Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
